@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Remel Mina
-- 👀 I’m interested in #programming #fontenddev #ui|uxdesign 
-- 🌱 I’m currently a Software Developer at H2 Software Consulting Services
+- 👀 I’m interested in #programming #frontenddev #ui|uxdesign 
+- 🌱 I’m currently a Software Developer at H2 Software Consulting Services Inc.
 - 📫 How to reach me? I'm on Viber (+63) 955-0944-999 || remel.mina.h2software.net@gmail.com || remel.mina@dev.h2software.net
 
 <!---
