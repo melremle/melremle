@@ -1,9 +1,4 @@
 - 👋 Hi, I’m Remel Mina
-- 👀 I’m interested in #programming #frontenddev #ui|uxdesign 
-- 🌱 I’m currently a Software Developer at H2 Software Consulting Services Inc.
-- 📫 How to reach me? I'm on Viber (+63) 955-0944-999 || remel.mina.h2software.net@gmail.com || remel.mina@dev.h2software.net
-
-<!---
-melremle/melremle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in #programming #frontenddevelopment #ui|uxdesign #mobiledevelopment #api #iot
+- 🌱 I’m a Software Developer at H2 Software Consulting Services Inc. from September 2021 to November 2024
+- 📫 How to reach me? I'm on Viber (+63) 955-0944-999 || remle.asuncion.mina@gmail.com || melre2596@gmail.com
